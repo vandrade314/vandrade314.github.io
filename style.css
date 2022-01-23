@@ -1,0 +1,61 @@
+h1 {
+color:beige;
+font-size: 30px;
+font-family:Optima, sans-serif;
+background-color:#669933;
+border: 5px dotted black;
+padding:25px;
+padding-left: 10px;
+}
+
+h2 {
+color:beige;
+padding-left: 10px;
+font-family:Optima, sans-serif;
+background-color:#669933;
+border: 5px dotted black;
+}
+
+h3 {
+color:black;
+font-family:Optima, sans-serif;
+text-align: center;
+}
+
+.welcome {
+text-align: center;
+}
+
+h4 {
+color:white;
+font-family:helvetica;
+background-color:#669933;
+border: 1px solid black;
+}
+
+body {
+font-size: 17px;
+color:black;
+font-family:Optima, sans-serif;
+background-color:beige;
+}
+
+.atticus {
+color:beige;
+text-align: right;
+font-size: 20px;
+font-family:Optima, sans-serif;
+background-color:#669933;
+padding:15px;
+border: 5px dotted black;
+}
+
+img {
+display: block;
+border: 5px solid black;
+width:40%;
+height:40%;
+float: right;
+margin-right: 15 px;"
+margin-left:20px;
+}
